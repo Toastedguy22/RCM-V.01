@@ -1,0 +1,58 @@
+[
+  {
+    "userId": "1380554961414258709",
+    "message": "Wake up",
+    "type": "weekly",
+    "day": "5",
+    "time": "06:00"
+  },
+  {
+    "userId": "1161275626053976146",
+    "message": "Selfcare",
+    "type": "weekly",
+    "day": "1",
+    "time": "20:30"
+  },
+  {
+    "userId": "1161275626053976146",
+    "message": "Selfcare",
+    "type": "weekly",
+    "day": "2",
+    "time": "20:30"
+  },
+  {
+    "userId": "1161275626053976146",
+    "message": "Selfcare",
+    "type": "weekly",
+    "day": "3",
+    "time": "20:30"
+  },
+  {
+    "userId": "1161275626053976146",
+    "message": "Selfcare",
+    "type": "weekly",
+    "day": "4",
+    "time": "20:30"
+  },
+  {
+    "userId": "1161275626053976146",
+    "message": "Selfcare",
+    "type": "weekly",
+    "day": "5",
+    "time": "20:30"
+  },
+  {
+    "userId": "1161275626053976146",
+    "message": "Selfcare",
+    "type": "weekly",
+    "day": "6",
+    "time": "20:30"
+  },
+  {
+    "userId": "1161275626053976146",
+    "message": "Selfcare",
+    "type": "weekly",
+    "day": "0",
+    "time": "20:30"
+  }
+]

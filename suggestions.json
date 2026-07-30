@@ -1,0 +1,136 @@
+{
+  "forwarded": [
+    "1528414717180117114",
+    "1528471569335189606",
+    "1529524705743077559",
+    "1531736467414454505"
+  ],
+  "counter": 31,
+  "suggestions": {
+    "1528414002785288354": {
+      "number": 1,
+      "text": "test 2",
+      "authorId": "1380554961414258709",
+      "authorTag": "toastedguy22",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1380554961414258709/81d024dc712c839aabbf76bba762c260.webp"
+    },
+    "1528414717180117114": {
+      "number": 2,
+      "text": "test 3",
+      "authorId": "1380554961414258709",
+      "authorTag": "toastedguy22",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1380554961414258709/81d024dc712c839aabbf76bba762c260.webp"
+    },
+    "1528417388662362143": {
+      "number": 3,
+      "text": "Add a car",
+      "authorId": "1380554961414258709",
+      "authorTag": "toastedguy22",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1380554961414258709/81d024dc712c839aabbf76bba762c260.webp"
+    },
+    "1528467670616248492": {
+      "number": 4,
+      "text": "cars",
+      "authorId": "1380554961414258709",
+      "authorTag": "toastedguy22",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1380554961414258709/81d024dc712c839aabbf76bba762c260.webp",
+      "threadId": "1528467670616248492"
+    },
+    "1528471569335189606": {
+      "number": 5,
+      "text": "Add more asian cars (dev test)",
+      "authorId": "1380554961414258709",
+      "authorTag": "toastedguy22",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1380554961414258709/81d024dc712c839aabbf76bba762c260.webp",
+      "threadId": "1528471569335189606"
+    },
+    "1528697481423093802": {
+      "number": 6,
+      "text": "Test",
+      "authorId": "1416907151724777532",
+      "authorTag": "dionmisty",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1416907151724777532/efe335a886b3c1e9227beaecc6ac17bf.webp",
+      "threadId": "1528697481423093802"
+    },
+    "1528755605072773294": {
+      "number": 14,
+      "text": "test",
+      "authorId": "1416907151724777532",
+      "authorTag": "dionmisty",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1416907151724777532/efe335a886b3c1e9227beaecc6ac17bf.webp",
+      "threadId": "1528755605072773294"
+    },
+    "1529035863168913429": {
+      "number": 16,
+      "text": "*Buyable apartments and houses\n* Furniture placement\n* Rent system\n* Businesses owned by players\nAnd bed system, u can go to bed in your house and u will wake up like in a few second, just like in Minecraft.",
+      "authorId": "1448430628893753488",
+      "authorTag": "cimon0826",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1448430628893753488/133a9f9225b7413700c77f20af588a68.webp",
+      "threadId": "1529035863168913429"
+    },
+    "1529038237236985908": {
+      "number": 18,
+      "text": "test",
+      "authorId": "1416907151724777532",
+      "authorTag": "dionmisty",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1416907151724777532/efe335a886b3c1e9227beaecc6ac17bf.webp",
+      "threadId": "1529038237236985908"
+    },
+    "1529051016241090673": {
+      "number": 19,
+      "text": "test to see if bot is working",
+      "authorId": "1380554961414258709",
+      "authorTag": "toastedguy22",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1380554961414258709/81d024dc712c839aabbf76bba762c260.webp",
+      "threadId": "1529051016241090673"
+    },
+    "1529161312977027185": {
+      "number": 22,
+      "text": "test1",
+      "authorId": "800396392530182185",
+      "authorTag": "longingmitchell",
+      "avatarURL": "https://cdn.discordapp.com/avatars/800396392530182185/30c93d03aa0cb9c680b65e809efb1e9d.webp",
+      "threadId": "1529161312977027185"
+    },
+    "1529439134144401530": {
+      "number": 26,
+      "text": "testing fixing",
+      "authorId": "1380554961414258709",
+      "authorTag": "toastedguy22",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1380554961414258709/81d024dc712c839aabbf76bba762c260.webp",
+      "threadId": "1529439134144401530"
+    },
+    "1529524705743077559": {
+      "number": 27,
+      "text": "The 999999th test",
+      "authorId": "1448430628893753488",
+      "authorTag": "cimon0826",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1448430628893753488/133a9f9225b7413700c77f20af588a68.webp",
+      "threadId": "1529524705743077559"
+    },
+    "1531736013129515233": {
+      "number": 28,
+      "text": "Employee of the week/month will have doubled money after release",
+      "authorId": "1448430628893753488",
+      "authorTag": "cimon0826",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1448430628893753488/133a9f9225b7413700c77f20af588a68.webp",
+      "threadId": "1531736013129515233"
+    },
+    "1531736467414454505": {
+      "number": 29,
+      "text": "Release BETA!",
+      "authorId": "1416907151724777532",
+      "authorTag": "dionmisty",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1416907151724777532/efe335a886b3c1e9227beaecc6ac17bf.webp",
+      "threadId": "1531736467414454505"
+    },
+    "1532321215619006465": {
+      "number": 31,
+      "text": "A **Vehicle** testing place instead of everything in 2 place, unholy lag for the poor builders that aren’t even related to the vehicles.",
+      "authorId": "1416907151724777532",
+      "authorTag": "dionmisty",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1416907151724777532/efe335a886b3c1e9227beaecc6ac17bf.webp",
+      "threadId": "1532321215619006465"
+    }
+  }
+}
